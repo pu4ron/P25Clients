@@ -60,6 +60,9 @@
 # 724 P25 Brazil
 724	p25brazil.ddns.net	41000
 
+# 725 MGBRASIL P25
+725 mgbrasil.duckdns.org 41000
+
 # 730 Chile P25 Reflector to BM TG 730
 730	sdradio.cl	41000
 
@@ -668,8 +671,3 @@
 
 # 65101 KM4HJJ repeater Pompano, Florida
 65101 km4hjj-p25.dyndns-server.com 41000
-
-# 72405 P25 MGBRASIL
-72405 mgbrasil.duckdns.org 41000
-
-
